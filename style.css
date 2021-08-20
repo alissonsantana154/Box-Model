@@ -1,0 +1,15 @@
+.caixa{
+  background-image: linear-gradient(to left, #8e9aaf, #053c5e);
+  margin: 30px 50px;
+  padding: 30px 50px;
+  border-radius: 10px;
+  }
+section{
+  color: white;
+}
+h1{
+  border: 5px solid red;
+}
+p{
+  border: 5px solid red;
+}
